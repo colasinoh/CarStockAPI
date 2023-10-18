@@ -1,0 +1,44 @@
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\appsettings.json
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Car Stock API.staticwebassets.runtime.json
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Car Stock API.exe
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Car Stock API.deps.json
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Car Stock API.runtimeconfig.json
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Car Stock API.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Car Stock API.pdb
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\Car Stock API.csproj.AssemblyReference.cache
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\Car Stock API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\Car Stock API.AssemblyInfoInputs.cache
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\Car Stock API.AssemblyInfo.cs
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\Car Stock API.csproj.CoreCompileInputs.cache
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\Car Stock API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\Car Stock API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\staticwebassets\msbuild.Car Stock API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\staticwebassets\msbuild.build.Car Stock API.props
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Car Stock API.props
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Car Stock API.props
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\scopedcss\bundle\Car Stock API.styles.css
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\Car Stock API.csproj.CopyComplete
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\Car Stock API.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\refint\Car Stock API.dll
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\Car Stock API.pdb
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\Car Stock API.genruntimeconfig.cache
+C:\Users\harve\OneDrive\Desktop\testCode\Car Stock API\obj\Debug\net6.0\ref\Car Stock API.dll
